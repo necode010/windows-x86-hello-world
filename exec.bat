@@ -1,0 +1,1 @@
+clang main.s -o test.exe -nostdlib
